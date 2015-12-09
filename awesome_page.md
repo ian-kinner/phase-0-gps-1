@@ -11,3 +11,4 @@
 - more lists
 
 [Link to website]("http://daringfireball.net/projects/markdown/syntax")
+[Our awesome screenshot]("https://github.com/timlkelly/phase-0-gps-1/blob/master/screenshot.png")
